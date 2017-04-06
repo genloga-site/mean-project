@@ -1,0 +1,25 @@
+{
+  "name": "mean-project",
+  "version": "1.0.0",
+  "description": "My first mean project using vue js",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^2.2.6",
+    "vue-resource": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genloga-site/mean-project.git"
+  },
+  "author": "Jean-Louis K. MANGA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genloga-site/mean-project/issues"
+  },
+  "homepage": "https://github.com/genloga-site/mean-project#readme"
+}
